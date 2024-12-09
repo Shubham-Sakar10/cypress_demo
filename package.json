@@ -1,0 +1,29 @@
+{
+  "name": "training_airbnb",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ui-regresion":"cypress run --browser chrome --spec cypress/e2e/Demo_project/**.js",
+    "ui-regresion-allure": "cypress run --browser chrome --spec cypress/e2e/Demo_project/**.js --env allure=true ",
+    "ui-allure-clear": "rm -r allure-results/ allure-report cypress/screenshots || true",
+    "ui-allure-report": "allure generate allure-results --clean -o allure-report",
+    "ui-allure-history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@shelex/cypress-allure-plugin": "^2.35.2",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "cypress-upload-file": "^1.0.6",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.2"
+  }
+}
