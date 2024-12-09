@@ -1,0 +1,19 @@
+{
+    "recruitmentvalidationtext": "Candidates",
+    "addcandidatevalidationtext": "Add Candidate",
+    "firstname" : "Shubham",
+    "firstsurname": "Sarkar",
+    "vaccancysearch": "Software Engineer",
+    "emailidinput": "shubham.sarkar@atmecs.com",
+    "secondname" : "Leo",
+    "secondsurname": "Messi",
+    "secondvaccancysearch": "Senior QA Lead",
+    "secondemailidinput": "Leo@gmail.com",
+    "thirdname" : "sunil",
+    "thirdsurname": "chetri",
+    "thirdvaccancysearch": "Associate IT Manager",
+    "thirdemailidinput": "chetri@gmail.com",
+    "searchcandidatename": "Shubham",
+    "selectcandidatename": "Shubham Sarkar"
+
+}

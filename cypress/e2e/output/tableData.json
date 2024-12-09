@@ -1,0 +1,1381 @@
+[
+  {
+    "col0": "\nVisited\n",
+    "col1": "\nCountry\n",
+    "col2": "\nCapital(s)\n",
+    "col3": "\nCurrency\n",
+    "col4": "\nPrimary Language(s)\n"
+  },
+  {
+    "col0": "",
+    "col1": "Afghanistan",
+    "col2": "Kabul",
+    "col3": "Afghani",
+    "col4": "Dari Persian; Pashto"
+  },
+  {
+    "col0": "",
+    "col1": "Albania",
+    "col2": "Tirane",
+    "col3": "Lek",
+    "col4": "Albanian"
+  },
+  {
+    "col0": "",
+    "col1": "Algeria",
+    "col2": "Algiers",
+    "col3": "Algerian Dinar",
+    "col4": "Arabic; Tamazight; French"
+  },
+  {
+    "col0": "",
+    "col1": "Andorra",
+    "col2": "Andorra la Vella",
+    "col3": "Euro",
+    "col4": "Catalan"
+  },
+  {
+    "col0": "",
+    "col1": "Angola",
+    "col2": "Luanda",
+    "col3": "Kwanza",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Antigua & Barbuda",
+    "col2": "Saint John’s",
+    "col3": "East Caribbean Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Argentina",
+    "col2": "Buenos Aires",
+    "col3": "Argentine Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Armenia",
+    "col2": "Yerevan",
+    "col3": "Dram",
+    "col4": "Armenian"
+  },
+  {
+    "col0": "",
+    "col1": "Australia",
+    "col2": "Canberra",
+    "col3": "Australian Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Austria",
+    "col2": "Vienna",
+    "col3": "Euro",
+    "col4": "German"
+  },
+  {
+    "col0": "",
+    "col1": "Azerbaijan",
+    "col2": "Baku",
+    "col3": "Manat",
+    "col4": "Azerbaijani"
+  },
+  {
+    "col0": "",
+    "col1": "The Bahamas",
+    "col2": "Nassau",
+    "col3": "Bahamian Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Bahrain",
+    "col2": "Manama",
+    "col3": "Bahraini Dinar",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Bangladesh",
+    "col2": "Dhaka",
+    "col3": "Taka",
+    "col4": "Bangla"
+  },
+  {
+    "col0": "",
+    "col1": "Barbados",
+    "col2": "Bridgetown",
+    "col3": "Barbadian Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Belarus",
+    "col2": "Minsk",
+    "col3": "Belarusian Ruble",
+    "col4": "Belarusian; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Belgium",
+    "col2": "Brussels",
+    "col3": "Euro",
+    "col4": "Dutch; French; German"
+  },
+  {
+    "col0": "",
+    "col1": "Belize",
+    "col2": "Belmopan",
+    "col3": "Belize Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Benin",
+    "col2": "Porto-Novo",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Bhutan",
+    "col2": "Thimphu",
+    "col3": "Ngultrum",
+    "col4": "Dzongkha"
+  },
+  {
+    "col0": "",
+    "col1": "Bolivia",
+    "col2": "La Paz; Sucre",
+    "col3": "Boliviano",
+    "col4": "Spanish; Quechua; Aymara"
+  },
+  {
+    "col0": "",
+    "col1": "Bosnia and Herzegovina",
+    "col2": "Sarajevo",
+    "col3": "Convertible Mark",
+    "col4": "Bosnian; Croatian; Serbian"
+  },
+  {
+    "col0": "",
+    "col1": "Botswana",
+    "col2": "Gaborone",
+    "col3": "Pula",
+    "col4": "English; Tswana"
+  },
+  {
+    "col0": "",
+    "col1": "Brazil",
+    "col2": "Brasilia",
+    "col3": "Real",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Brunei",
+    "col2": "Bandar Seri Begawan",
+    "col3": "Brunei Dollar",
+    "col4": "Malay"
+  },
+  {
+    "col0": "",
+    "col1": "Bulgaria",
+    "col2": "Sofia",
+    "col3": "Lev",
+    "col4": "Bulgarian"
+  },
+  {
+    "col0": "",
+    "col1": "Burkina Faso",
+    "col2": "Ouagadougou",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Burundi",
+    "col2": "Bujumbura",
+    "col3": "Burundi Franc",
+    "col4": "Kirundi; French"
+  },
+  {
+    "col0": "",
+    "col1": "Cambodia",
+    "col2": "Phnom Penh",
+    "col3": "Riel",
+    "col4": "Khmer"
+  },
+  {
+    "col0": "",
+    "col1": "Cameroon",
+    "col2": "Yaounde",
+    "col3": "Central African CFA Franc",
+    "col4": "French; English"
+  },
+  {
+    "col0": "",
+    "col1": "Canada",
+    "col2": "Ottawa",
+    "col3": "Canadian Dollar",
+    "col4": "English; French"
+  },
+  {
+    "col0": "",
+    "col1": "Cape Verde",
+    "col2": "Praia",
+    "col3": "Cape Verdean Escudo",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Central African Republic",
+    "col2": "Bangui",
+    "col3": "Central African CFA Franc",
+    "col4": "Sango; French"
+  },
+  {
+    "col0": "",
+    "col1": "Chad",
+    "col2": "N’Djamena",
+    "col3": "Central African CFA Franc",
+    "col4": "French; Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Chile",
+    "col2": "Santiago",
+    "col3": "Chilean Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "China",
+    "col2": "Beijing",
+    "col3": "Chinese Yuan",
+    "col4": "Mandarin"
+  },
+  {
+    "col0": "",
+    "col1": "Colombia",
+    "col2": "Bogota",
+    "col3": "Colombian Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Comoros",
+    "col2": "Moron",
+    "col3": "Comorian Franc",
+    "col4": "Comorian; Arabic; French"
+  },
+  {
+    "col0": "",
+    "col1": "Democratic Republic Of the Congo",
+    "col2": "Kinshasa",
+    "col3": "Congolese Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Republic of the Congo",
+    "col2": "Brazzaville",
+    "col3": "Central African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Costa Rica",
+    "col2": "San Jose",
+    "col3": "Colon",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Cote d’Ivoire (Ivory Coast)",
+    "col2": "Yamoussoukro; Abidjan",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Croatia",
+    "col2": "Zagreb",
+    "col3": "Croatian",
+    "col4": "Kuna"
+  },
+  {
+    "col0": "",
+    "col1": "Cuba",
+    "col2": "Havana",
+    "col3": "Cuban Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Cyprus",
+    "col2": "Nicosia",
+    "col3": "Euro",
+    "col4": "Greek; Turkish"
+  },
+  {
+    "col0": "",
+    "col1": "Czechia",
+    "col2": "Prague",
+    "col3": "Czech Koruna",
+    "col4": "Czech; Slovak"
+  },
+  {
+    "col0": "",
+    "col1": "Denmark",
+    "col2": "Copenhagen",
+    "col3": "Danish Krone",
+    "col4": "Danish"
+  },
+  {
+    "col0": "",
+    "col1": "Djibouti",
+    "col2": "Djibouti",
+    "col3": "Djiboutian Franc",
+    "col4": "Arabic; French"
+  },
+  {
+    "col0": "",
+    "col1": "Dominica",
+    "col2": "Rosesau",
+    "col3": "East Caribbean Dollar",
+    "col4": "English; French; Antillean Creole"
+  },
+  {
+    "col0": "",
+    "col1": "Dominican Republic",
+    "col2": "Santo Domingo",
+    "col3": "Dominican Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "East Timor (Timor-Leste)",
+    "col2": "Dilli",
+    "col3": "United States Dollar",
+    "col4": "Tetum; Portuguese; Iindonesian"
+  },
+  {
+    "col0": "",
+    "col1": "Ecuador",
+    "col2": "Quito",
+    "col3": "United States Dollar",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Egypt",
+    "col2": "Cairo",
+    "col3": "Egyptian Pound",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "El Salvador",
+    "col2": "San Salvador",
+    "col3": "United States Dollar",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Equitorial Guinea",
+    "col2": "Malabo",
+    "col3": "Central African CFA Franc",
+    "col4": "Spanish; French; Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Eritrea",
+    "col2": "Asmara",
+    "col3": "Nakfa",
+    "col4": "Arabic; Tigrinya; English"
+  },
+  {
+    "col0": "",
+    "col1": "Estonia",
+    "col2": "Tallinn",
+    "col3": "Estonian Kroon; Euro",
+    "col4": "Estonian"
+  },
+  {
+    "col0": "",
+    "col1": "Ethiopia",
+    "col2": "Addis Ababa",
+    "col3": "Birr",
+    "col4": "Amharic"
+  },
+  {
+    "col0": "",
+    "col1": "Fiji",
+    "col2": "Suva",
+    "col3": "Fijian Dollar",
+    "col4": "English; Bau Fijian; Hindi"
+  },
+  {
+    "col0": "",
+    "col1": "Finland",
+    "col2": "Helsinki",
+    "col3": "Euro",
+    "col4": "Finnish; Swedish"
+  },
+  {
+    "col0": "",
+    "col1": "France",
+    "col2": "Paris",
+    "col3": "Euro; CFP Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Gabon",
+    "col2": "Libreville",
+    "col3": "Central African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "The Gambia",
+    "col2": "Banjul",
+    "col3": "Dalasi",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Georgia",
+    "col2": "Tbilisi",
+    "col3": "Lari",
+    "col4": "Georgian"
+  },
+  {
+    "col0": "",
+    "col1": "Germany",
+    "col2": "Berlin",
+    "col3": "Euro",
+    "col4": "German"
+  },
+  {
+    "col0": "",
+    "col1": "Ghana",
+    "col2": "Accra",
+    "col3": "Ghanaian Cedi",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Greece",
+    "col2": "Athens",
+    "col3": "Euro",
+    "col4": "Greek"
+  },
+  {
+    "col0": "",
+    "col1": "Grenada",
+    "col2": "St. George’s",
+    "col3": "East Caribbean Dollar",
+    "col4": "English; Patois"
+  },
+  {
+    "col0": "",
+    "col1": "Guatemala",
+    "col2": "Guatemala City",
+    "col3": "Quetzal",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Guinea",
+    "col2": "Conakry",
+    "col3": "Guinean Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Guinea-Bissau",
+    "col2": "Bissau",
+    "col3": "West African CFA Franc",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Guyana",
+    "col2": "Georgetown",
+    "col3": "Guyanese Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Haiti",
+    "col2": "Port-au-Prince",
+    "col3": "Gourde",
+    "col4": "Haitian Creole; French"
+  },
+  {
+    "col0": "",
+    "col1": "Honduras",
+    "col2": "Tegucigalpa",
+    "col3": "Lempira",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Hungary",
+    "col2": "Budapest",
+    "col3": "Forint",
+    "col4": "Hungarian"
+  },
+  {
+    "col0": "",
+    "col1": "Iceland",
+    "col2": "Reykjavik",
+    "col3": "Icelandic Krona",
+    "col4": "Icelandic"
+  },
+  {
+    "col0": "",
+    "col1": "India",
+    "col2": "New Delhi",
+    "col3": "Indian Rupee",
+    "col4": "Hindi; English"
+  },
+  {
+    "col0": "",
+    "col1": "Indonesia",
+    "col2": "Jakarta",
+    "col3": "Rupiah",
+    "col4": "Indonesian"
+  },
+  {
+    "col0": "",
+    "col1": "Iran",
+    "col2": "Tehran",
+    "col3": "Rial",
+    "col4": "Persian"
+  },
+  {
+    "col0": "",
+    "col1": "Iraq",
+    "col2": "Baghdad",
+    "col3": "Iraqi Dinar",
+    "col4": "Arabic; Kurdish"
+  },
+  {
+    "col0": "",
+    "col1": "Republic of Ireland",
+    "col2": "Dublin",
+    "col3": "Euro",
+    "col4": "English; Irish"
+  },
+  {
+    "col0": "",
+    "col1": "Israel",
+    "col2": "Jerusalem",
+    "col3": "Shekel",
+    "col4": "Hebrew; Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Italy",
+    "col2": "Rome",
+    "col3": "Euro",
+    "col4": "Italian"
+  },
+  {
+    "col0": "",
+    "col1": "Jamaica",
+    "col2": "Kingston",
+    "col3": "Jamaican Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Japan",
+    "col2": "Tokyo",
+    "col3": "Yen",
+    "col4": "Japanese"
+  },
+  {
+    "col0": "",
+    "col1": "Jordan",
+    "col2": "Amman",
+    "col3": "Jordanian Dinar",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Kazakhstan",
+    "col2": "Astana",
+    "col3": "Tenge",
+    "col4": "Kazakh; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Kenya",
+    "col2": "Nairobi",
+    "col3": "Kenyan Shilling",
+    "col4": "Swahili; English"
+  },
+  {
+    "col0": "",
+    "col1": "Kiribati",
+    "col2": "Tarawa Atoll",
+    "col3": "Kiribati Dollar",
+    "col4": "English; Gilbertese"
+  },
+  {
+    "col0": "",
+    "col1": "North Korea",
+    "col2": "Pyongyang",
+    "col3": "North Korean Won",
+    "col4": "Korean"
+  },
+  {
+    "col0": "",
+    "col1": "South Korea",
+    "col2": "Seoul",
+    "col3": "South Korean Won",
+    "col4": "Korean"
+  },
+  {
+    "col0": "",
+    "col1": "Kosovo",
+    "col2": "Pristina",
+    "col3": "Euro",
+    "col4": "Albanian; Serbian"
+  },
+  {
+    "col0": "",
+    "col1": "Kuwait",
+    "col2": "Kuwait City",
+    "col3": "Kuwaiti Dollar",
+    "col4": "Arabic; English"
+  },
+  {
+    "col0": "",
+    "col1": "Kyrgyzstan",
+    "col2": "Bishkek",
+    "col3": "Som",
+    "col4": "Kyrgyz; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Laos",
+    "col2": "Vientiane",
+    "col3": "Kip",
+    "col4": "Lao (Laotian)"
+  },
+  {
+    "col0": "",
+    "col1": "Latvia",
+    "col2": "Riga",
+    "col3": "Lats",
+    "col4": "Latvian"
+  },
+  {
+    "col0": "",
+    "col1": "Lebanon",
+    "col2": "Beirut",
+    "col3": "Lebanese Pound",
+    "col4": "Arabic; French"
+  },
+  {
+    "col0": "",
+    "col1": "Lesotho",
+    "col2": "Maseru",
+    "col3": "Loti",
+    "col4": "Sesotho; English"
+  },
+  {
+    "col0": "",
+    "col1": "Liberia",
+    "col2": "Monrovia",
+    "col3": "Liberian Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Libya",
+    "col2": "Tripoli",
+    "col3": "Libyan Dinar",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Liechtenstein",
+    "col2": "Vaduz",
+    "col3": "Swiss Franc",
+    "col4": "German"
+  },
+  {
+    "col0": "",
+    "col1": "Lithuania",
+    "col2": "Vilnius",
+    "col3": "Lithuanian Litas",
+    "col4": "Lithuanian"
+  },
+  {
+    "col0": "",
+    "col1": "Luxembourg",
+    "col2": "Luxembourg",
+    "col3": "Euro",
+    "col4": "German; French; Luxembourgish"
+  },
+  {
+    "col0": "",
+    "col1": "Macedonia",
+    "col2": "Skopje",
+    "col3": "Macedonian Denar",
+    "col4": "Macedonian"
+  },
+  {
+    "col0": "",
+    "col1": "Madagascar",
+    "col2": "Antananarivo",
+    "col3": "Malagasy Ariary",
+    "col4": "Malagasy; French; English"
+  },
+  {
+    "col0": "",
+    "col1": "Malawi",
+    "col2": "Lilongwe",
+    "col3": "Malawi Kwacha",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Malaysia",
+    "col2": "Kuala Lumpur",
+    "col3": "Ringgit",
+    "col4": "Malay"
+  },
+  {
+    "col0": "",
+    "col1": "Maldives",
+    "col2": "Male",
+    "col3": "Maldivian Rufiyaa",
+    "col4": "Dhivehi"
+  },
+  {
+    "col0": "",
+    "col1": "Mali",
+    "col2": "Bamako",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Malta",
+    "col2": "Valletta",
+    "col3": "Euro",
+    "col4": "Maltese; English"
+  },
+  {
+    "col0": "",
+    "col1": "Marshall Islands",
+    "col2": "Majuro",
+    "col3": "United States Dollar",
+    "col4": "Marshallese; English"
+  },
+  {
+    "col0": "",
+    "col1": "Mauritania",
+    "col2": "Nouakchott",
+    "col3": "Ouguiya",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Mauritius",
+    "col2": "Port Louis",
+    "col3": "Mauritian Rupee",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Mexico",
+    "col2": "Mexico City",
+    "col3": "Mexican Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Federal States of Micronesia",
+    "col2": "Palikir",
+    "col3": "United States Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Moldova",
+    "col2": "Chisinau",
+    "col3": "Moldovan Leu",
+    "col4": "Moldovan (Romanian)"
+  },
+  {
+    "col0": "",
+    "col1": "Monaco",
+    "col2": "Monaco",
+    "col3": "Euro",
+    "col4": "French; Italian; English"
+  },
+  {
+    "col0": "",
+    "col1": "Mongolia",
+    "col2": "Ulaanbaatar",
+    "col3": "Togrog",
+    "col4": "Mongolian"
+  },
+  {
+    "col0": "",
+    "col1": "Montenegro",
+    "col2": "Podgorica",
+    "col3": "Euro",
+    "col4": "Montenegrin"
+  },
+  {
+    "col0": "",
+    "col1": "Morocco",
+    "col2": "Rabat",
+    "col3": "Moroccan Dirham",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Mozambique",
+    "col2": "Maputo",
+    "col3": "Mozambican Metical",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Myanmar (Burma)",
+    "col2": "Nypyidaw",
+    "col3": "Kyat",
+    "col4": "Burmese"
+  },
+  {
+    "col0": "",
+    "col1": "Namibia",
+    "col2": "Windhoek",
+    "col3": "Namibian Dollar",
+    "col4": "English; Afrikaans; German"
+  },
+  {
+    "col0": "",
+    "col1": "Nauru",
+    "col2": "Yaren",
+    "col3": "Australian Dollar",
+    "col4": "English; Nauran"
+  },
+  {
+    "col0": "",
+    "col1": "Nepal",
+    "col2": "Kathmandu",
+    "col3": "Nepalese Rupee",
+    "col4": "Nepali"
+  },
+  {
+    "col0": "",
+    "col1": "Netherlands",
+    "col2": "Amsterdam; The Hague",
+    "col3": "Euro",
+    "col4": "Dutch"
+  },
+  {
+    "col0": "",
+    "col1": "New Zealand",
+    "col2": "Wellington",
+    "col3": "New Zealand Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Nicaragua",
+    "col2": "Managua",
+    "col3": "Cordoba",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Niger",
+    "col2": "Niamey",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Nigeria",
+    "col2": "Abuja",
+    "col3": "Naira",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Norway",
+    "col2": "Oslo",
+    "col3": "Norwegian Krone",
+    "col4": "Norwegian"
+  },
+  {
+    "col0": "",
+    "col1": "Oman",
+    "col2": "Muscat",
+    "col3": "Omani Rial",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Pakistan",
+    "col2": "Islamabad",
+    "col3": "Pakistani Rupee",
+    "col4": "Urdu; English"
+  },
+  {
+    "col0": "",
+    "col1": "Palau",
+    "col2": "Melekeok",
+    "col3": "United States Dollar",
+    "col4": "English; Palauan"
+  },
+  {
+    "col0": "",
+    "col1": "Panama",
+    "col2": "Panama City",
+    "col3": "Balboa",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Papa New Guinea",
+    "col2": "Port Moresby Papa",
+    "col3": "Papa New Guinean Kina",
+    "col4": "English; Tok Pisin;\nHiri Motu"
+  },
+  {
+    "col0": "",
+    "col1": "Paraguay",
+    "col2": "Asuncion",
+    "col3": "Guarani",
+    "col4": "Spanish; Guarani"
+  },
+  {
+    "col0": "",
+    "col1": "Peru",
+    "col2": "Lima",
+    "col3": "Nuevo Sol",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Phillipines",
+    "col2": "Manila",
+    "col3": "Phillipine Peso",
+    "col4": "Filipino; English"
+  },
+  {
+    "col0": "",
+    "col1": "Poland",
+    "col2": "Warsaw",
+    "col3": "Zloty",
+    "col4": "Polish"
+  },
+  {
+    "col0": "",
+    "col1": "Portugal",
+    "col2": "Lisbon",
+    "col3": "Euro",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Qatar",
+    "col2": "Doha",
+    "col3": "Qatari Riyal",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Romania",
+    "col2": "Bucharest",
+    "col3": "Romanian Rupee",
+    "col4": "Romanian"
+  },
+  {
+    "col0": "",
+    "col1": "Romania",
+    "col2": "Bucharest",
+    "col3": "Romanian Rupee",
+    "col4": "Romanian"
+  },
+  {
+    "col0": "",
+    "col1": "Russia",
+    "col2": "Moscow",
+    "col3": "Ruble",
+    "col4": "Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Rwanda",
+    "col2": "Kigali",
+    "col3": "Rwandan Franc",
+    "col4": "Kinyarwanda; French; English"
+  },
+  {
+    "col0": "",
+    "col1": "Saint Kitts and Nevis",
+    "col2": "Basseterre",
+    "col3": "East Caribbean Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Saint Lucia",
+    "col2": "Castries",
+    "col3": "East Caribbean Dollar",
+    "col4": "English; French"
+  },
+  {
+    "col0": "",
+    "col1": "Saint Vincent and\nThe Grenadines",
+    "col2": "Kingstown East",
+    "col3": "Caribbean Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Samoa",
+    "col2": "Apia",
+    "col3": "Tala",
+    "col4": "Samoan; English"
+  },
+  {
+    "col0": "",
+    "col1": "San Marino",
+    "col2": "San Marino",
+    "col3": "Euro",
+    "col4": "Italian"
+  },
+  {
+    "col0": "",
+    "col1": "Sao Tome and Principe",
+    "col2": "Sao Tome",
+    "col3": "Dobra",
+    "col4": "Portuguese"
+  },
+  {
+    "col0": "",
+    "col1": "Saudi Arabia",
+    "col2": "Riyadh",
+    "col3": "Saudi Riyal",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Senegal",
+    "col2": "Dakar",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Serbia",
+    "col2": "Belgrade",
+    "col3": "Serbian Dinar",
+    "col4": "Serbian"
+  },
+  {
+    "col0": "",
+    "col1": "Seychelles",
+    "col2": "Victoria",
+    "col3": "Seychoellois Rupee",
+    "col4": "Seychellois Creole;\nFrench; English"
+  },
+  {
+    "col0": "",
+    "col1": "Sierra Leone",
+    "col2": "Freetown",
+    "col3": "Leone",
+    "col4": "Krio; English"
+  },
+  {
+    "col0": "",
+    "col1": "Singapore",
+    "col2": "Singapore",
+    "col3": "Singapore Dollar",
+    "col4": "English; Malay;\nMandarin Chinese"
+  },
+  {
+    "col0": "",
+    "col1": "Slovakia",
+    "col2": "Bratislava",
+    "col3": "Euro",
+    "col4": "Slovak"
+  },
+  {
+    "col0": "",
+    "col1": "Slovenia",
+    "col2": "Ljubljana",
+    "col3": "Euro",
+    "col4": "Slovene"
+  },
+  {
+    "col0": "",
+    "col1": "Solomon Islands",
+    "col2": "Honiara",
+    "col3": "Solomon Islands Dollar",
+    "col4": "Solomons Pijin"
+  },
+  {
+    "col0": "",
+    "col1": "Somalia",
+    "col2": "Mogadishu",
+    "col3": "Somali Shilling",
+    "col4": "Somali; Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "South Africa",
+    "col2": "Pretoria; Cape Town;\nBloemfontein",
+    "col3": "Rand",
+    "col4": "Zulu; Xhosa; Afrikaans"
+  },
+  {
+    "col0": "",
+    "col1": "Spain",
+    "col2": "Madrid",
+    "col3": "Euro",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Sri Lanka",
+    "col2": "Colombo",
+    "col3": "Sri Lankan Rupee",
+    "col4": "Sinhala; Tamil"
+  },
+  {
+    "col0": "",
+    "col1": "Sudan",
+    "col2": "Khartoum",
+    "col3": "Sudanese Pound",
+    "col4": "Arabic; English"
+  },
+  {
+    "col0": "",
+    "col1": "Suriname",
+    "col2": "Paramaribo",
+    "col3": "Surinamese Dollar",
+    "col4": "Dutch"
+  },
+  {
+    "col0": "",
+    "col1": "Swaziland",
+    "col2": "Mbabane",
+    "col3": "Lilangeni",
+    "col4": "English; SiSwati"
+  },
+  {
+    "col0": "",
+    "col1": "Sweden",
+    "col2": "Stockholm",
+    "col3": "Swedish Krona",
+    "col4": "Swedish"
+  },
+  {
+    "col0": "",
+    "col1": "Switzerland",
+    "col2": "Berne",
+    "col3": "Swiss Franc",
+    "col4": "German; French; Italian"
+  },
+  {
+    "col0": "",
+    "col1": "Syria",
+    "col2": "Damascus",
+    "col3": "Syrian Pound",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Taiwan",
+    "col2": "Taipei",
+    "col3": "New Taiwan Dollar",
+    "col4": "Mandarin"
+  },
+  {
+    "col0": "",
+    "col1": "Tajikistan",
+    "col2": "Dushanbe",
+    "col3": "Somoni",
+    "col4": "Tajik; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Tanzania",
+    "col2": "Dar es Salaam; Dodoma",
+    "col3": "Tanzanian Schilling",
+    "col4": "Swahili"
+  },
+  {
+    "col0": "",
+    "col1": "Thailand",
+    "col2": "Bangkok",
+    "col3": "Thai Baht",
+    "col4": "Thai"
+  },
+  {
+    "col0": "",
+    "col1": "Togo",
+    "col2": "Lome",
+    "col3": "West African CFA Franc",
+    "col4": "French"
+  },
+  {
+    "col0": "",
+    "col1": "Tonga",
+    "col2": "Nuku’alofa",
+    "col3": "Pa’anga",
+    "col4": "Tongan; English"
+  },
+  {
+    "col0": "",
+    "col1": "Trinidad and Tobago",
+    "col2": "Port-of-Spain",
+    "col3": "Trinidad and Tobago Dollar",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Tunisia",
+    "col2": "Tunis",
+    "col3": "Tunisian Dinar",
+    "col4": "Tunisian; French"
+  },
+  {
+    "col0": "",
+    "col1": "Turkey",
+    "col2": "Ankara",
+    "col3": "Turkish Lira",
+    "col4": "Turkish"
+  },
+  {
+    "col0": "",
+    "col1": "Turkmenistan",
+    "col2": "Ashgabat",
+    "col3": "Turkmen New Manat",
+    "col4": "Turkmen; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Tuvalu",
+    "col2": "Vaiaku",
+    "col3": "Tuvaluan Dollar",
+    "col4": "Tuvaluan; English"
+  },
+  {
+    "col0": "",
+    "col1": "Uganda",
+    "col2": "Kampala",
+    "col3": "Ugandan Shilling",
+    "col4": "Swahili; English"
+  },
+  {
+    "col0": "",
+    "col1": "Ukraine",
+    "col2": "Kiev",
+    "col3": "Hryvnia",
+    "col4": "Ukranian; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "United Arab Emirates",
+    "col2": "Abu Dhabi",
+    "col3": "Dirham",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "United Kingdom",
+    "col2": "London",
+    "col3": "Pound Sterling",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "United States of America",
+    "col2": "Washington D.C.",
+    "col3": "United States Dollar",
+    "col4": "English; Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Uruguay",
+    "col2": "Montevideo",
+    "col3": "Uruguayan Peso",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Uzbekistan",
+    "col2": "Tashkent",
+    "col3": "Uzbekistan Som",
+    "col4": "Uzbek; Russian"
+  },
+  {
+    "col0": "",
+    "col1": "Vanuatu",
+    "col2": "Port-Vila",
+    "col3": "Vanuatu Vatu",
+    "col4": "Bislama; English; French"
+  },
+  {
+    "col0": "",
+    "col1": "Vatican City",
+    "col2": "Vatican City",
+    "col3": "Euro",
+    "col4": "Latin; Italian"
+  },
+  {
+    "col0": "",
+    "col1": "Venezuela",
+    "col2": "Caracas",
+    "col3": "Bolivar Fuerte",
+    "col4": "Spanish"
+  },
+  {
+    "col0": "",
+    "col1": "Vietnam",
+    "col2": "Hanoi",
+    "col3": "Dong",
+    "col4": "Vietnamese"
+  },
+  {
+    "col0": "",
+    "col1": "Yemen",
+    "col2": "Sanaa",
+    "col3": "Yemeni Rial",
+    "col4": "Arabic"
+  },
+  {
+    "col0": "",
+    "col1": "Zambia",
+    "col2": "Lusaka",
+    "col3": "Zambian Kwacha",
+    "col4": "English"
+  },
+  {
+    "col0": "",
+    "col1": "Zimbabwe",
+    "col2": "Harare",
+    "col3": "United States Dollar",
+    "col4": "English"
+  }
+]
